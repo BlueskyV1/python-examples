@@ -32,3 +32,4 @@ print(r1)  # Random integer where 0 <= r1 <= 10
 seq = ["a", "b", "c", "d", "e"]
 r2 = random.choice(seq)
 print(r2)  # Random element in the sequence
+
